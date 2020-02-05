@@ -1,0 +1,26 @@
+.bodi
+{
+    background-image: url("../img/rel.jpg");
+    background-size: cover;
+}
+
+.log
+{
+    background:rgba(0, 0, 0, 0.7);
+    color:white;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 150px;
+    
+}
+
+@media (min-width: 992px)
+{
+    .log
+    {
+        width: 500px;
+        
+    }
+}
+
+

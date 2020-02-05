@@ -1,0 +1,128 @@
+#buton
+{
+    border-radius: 20px;
+    
+}
+
+.navbar{
+   
+    width: 100%;
+}
+
+
+
+.nav-link
+{
+    margin-right: 30px;
+    text-transform: uppercase;
+    
+}
+
+.navbar-brand
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jumbotron
+{
+    background-image: url(../img/train2.jpg);
+    height: 640px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+.jumbotron .display-4
+{
+    font-size: 40px;
+}
+
+.display-4
+{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1.0);
+    
+}
+
+.rata
+{
+    text-align: center;
+}
+.gmbr
+{
+    height: 80px;
+    width: 80px;
+    margin-bottom: 10px;
+   
+}
+
+.info-panel
+{
+    background-color: white;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    padding:30px;
+    margin-top: -150px;
+    border-radius: 20px;
+}
+
+.footer
+{
+    background-color: rgb(26, 26, 26);
+    padding: 30px;
+    
+    width: 100%;
+    bottom: 0px;
+    
+}
+
+.footer p
+{
+    color: white;
+   
+}
+
+.footer img
+{
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.kartu
+{
+    margin-top: 20px;
+    padding: 50px;
+}
+
+.formulir
+{
+    background-color: white;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    margin-bottom: 50px;
+}
+
+.view
+{
+    padding: 30px;
+}
+
+.jadwal
+{
+    padding: 30px;
+    margin-left: 250px;
+    height: 600px;
+    width: 600px;
+    margin-bottom: 50px;
+}
+
+@media (min-width: 992px)
+{
+
+}
